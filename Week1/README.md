@@ -32,12 +32,12 @@ materials, handouts, instructions, student code, and more!
 ---
 ### Day 3
 * Audio Review
-    * [Audio figures](https://github.com/LLCogWorks2018/Week1/blob/master/audio_materials/AudioFigures.ipynb) notebook
+    * [Audio figures](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/audio_materials/AudioFigures.ipynb) notebook
 * Fourier Review
 * Time and Frequency: Spectrograms
-    * [Spectrogram](https://github.com/LLCogWorks2018/Week1/blob/master/fourier_materials/Spectrogram) notebook
+    * [Spectrogram](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/Spectrogram.ipynb) notebook
 * Finding Peaks in 2D Data
-    * [Puppy paw prints](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/3_Applications_of_DFTs_SOLUTION.ipynb) notebook
+    * [Puppy paw prints](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/peak_finding_materials/PeakFinding.ipynb) notebook
 
 **Instructors: Pick groups**
 
