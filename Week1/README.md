@@ -27,7 +27,7 @@ materials, handouts, instructions, student code, and more!
     * [Analog to digital](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/audio_materials/Analog-to-Digital.ipynb) notebook
 * Fourier Transforms
     * 3 FT notebooks
-        * [1](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/1_BasicsofDFT_SOLUTION.ipynb), [2](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/2_DFT_of_Various_Signals_SOLUTION.ipynb), [3](https://github.com/LLCogWorks2018/Week1/blob/master/fourier_materials/3_Applications_of_DFTs_SOLUTION.ipynb)
+        * [1](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/1_BasicsofDFT.ipynb), [2](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/2_DFT_of_Various_Signals.ipynb), [3](https://github.com/LLCogWorks2018/Week1/blob/master/fourier_materials/3_Applications_of_DFTs.ipynb)
 
 ---
 ### Day 3
@@ -35,7 +35,7 @@ materials, handouts, instructions, student code, and more!
     * [Audio figures](https://github.com/LLCogWorks2018/Week1/blob/master/audio_materials/AudioFigures.ipynb) notebook
 * Fourier Review
 * Time and Frequency: Spectrograms
-    * [Spectrogram](https://github.com/LLCogWorks2018/Week1/blob/master/fourier_materials/Spectrogram_SOLUTION.ipynb) notebook
+    * [Spectrogram](https://github.com/LLCogWorks2018/Week1/blob/master/fourier_materials/Spectrogram) notebook
 * Finding Peaks in 2D Data
     * [Puppy paw prints](https://github.com/Rolix57/CogWorksCCM/blob/master/Week1/fourier_materials/3_Applications_of_DFTs_SOLUTION.ipynb) notebook
 
